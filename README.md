@@ -12,7 +12,7 @@ This repository is a fork of [Kanroot's project](https://github.com/kanroot/men_
 
     ```bash
     # this is just an example, your path to the game may be different
-    cd ~/.local/share/Steam/steamapps/common/Men of War Assault Squad 2/
+    cd ~/.local/share/Steam/steamapps/common/Men\ of\ War\ Assault\ Squad\ 2/
     ```
 
 2. **Clone the Repository**
